@@ -76,7 +76,7 @@ Nah di Quick Setup nanti ada url github kita, url tersebut untuk perintah_ “gi
 
  ##### _Cara penggunaan git dengan perintah dasar  git remote add origin [url], perintah untuk menambahkan remote server/reopsitory server pada local repositry (working directory)_
 
-- Sudah mengetahui url githubnya lalu ketik perintah git remote add origin [url],urlnya diganti dengan url github anda https://github.com/Hazelnuts22/Latihan_1.git
+- Sudah mengetahui url githubnya lalu ketik perintah git remote add origin [url],urlnya diganti dengan url github anda https://github.com/yogafrtm25/Latihan_1.git
    ![Screenshot (3)](https://user-images.githubusercontent.com/115678171/196103489-d9a8b659-aacf-4c7b-ab6a-7441d883576c.png)
 
 
@@ -88,7 +88,7 @@ Nah di Quick Setup nanti ada url github kita, url tersebut untuk perintah_ “gi
 
  ##### _Cara penggunaan git dengan perintah dasar  git clone [url], perintah untuk membuat working directory yang diambil dari repositry sever._
 
-- Kalau ingin melakukan cloning, gunakan perintah git clone [url], urlnya diganti dengan url github anda https://github.com/Hazelnuts22/Latihan_1.git . Jika ingin masuk kedirektorti gunakan perintah “cd [nama direktori anda]”, dan jika ingin melihat semua isi direektori gunakan perintah _“ls -1"_
+- Kalau ingin melakukan cloning, gunakan perintah git clone [url], urlnya diganti dengan url github anda https://github.com/yogafrtm25/Latihan_1.git . Jika ingin masuk kedirektorti gunakan perintah “cd [nama direktori anda]”, dan jika ingin melihat semua isi direektori gunakan perintah _“ls -1"_
   ![Screenshot (3)](https://user-images.githubusercontent.com/115678171/196103594-212dc1dc-35fe-4620-b459-8e8b8cb987d8.png)
 
 
